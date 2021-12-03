@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Oussama-Diai
+- 👀 I’m interested in software engineering, mostly open source projects.
+- 🌱 I’m currently learning computer science.
+- I'm a fan of GNU/Linux and an ardent user.
